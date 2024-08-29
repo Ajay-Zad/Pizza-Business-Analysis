@@ -1,5 +1,7 @@
 Pizza Business Analysis 
 
+Pizza Business Analysis Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=ab9e52d4-aa30-4541-99d4-961d2ad8eca1&autoAuth=true&ctid=ca969f76-e448-43b7-8232-91ee525278ee
+
 Overview:
 This repository contains a Power BI report dashboard designed to provide a comprehensive analysis of a pizza business's operations. The dashboard offers insights across multiple dimensions of the business, including sales performance, inventory management, and many more. By leveraging data from various sources, the dashboard enables data-driven decision-making to optimize business performance and enhance pizza business.
 
